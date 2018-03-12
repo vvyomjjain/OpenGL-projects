@@ -12,13 +12,15 @@ void init(void){
 void lineSegment(void){
     glClear(GL_COLOR_BUFFER_BIT);
 
-    glBegin(GL_TRIANGLE_FAN);
+    glBegin(GL_QUAD_STRIP);
         glColor3f(0.0,0.4,0.2);
 
         glVertex2i(50,50);
-        glVertex2i(100,100);
         glVertex2i(50,100);
-        glVertex2i(20,110);
+        glVertex2i(100,50);
+        glVertex2i(100,100);
+        glVertex2i(200,200);
+        glVertex2i(210,150);
     glEnd();
 
     glFlush();

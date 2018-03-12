@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1514140580 source:d:\nirma sem 6\el_2 cgv\tut\njjsrect\main.c
+	<windows.h>
+	<gl/gl.h>
+
+1520408062 source:d:\nirma sem 6\el_2 cgv\tut\njjsrect\njjsrect.cpp
+	<windows.h>
+	<GL/glut.h>
+	<stdio.h>
+
+1520359870 source:g:\my documents\sem 6\cgv\opengl projects\njjsrect\main.c
+	<windows.h>
+	<gl/gl.h>
+
+1520359870 source:g:\my documents\sem 6\cgv\opengl projects\njjsrect\njjsrect.cpp
+	<windows.h>
+	<GL/glut.h>
+	<stdio.h>
+

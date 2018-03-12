@@ -6,7 +6,7 @@
 void init(void){
     glClearColor(1.0,1.0,1.0,0.0);
     glMatrixMode(GL_PROJECTION);
-    gluOrtho2D(0.0,400.0,0.0,225.0);
+    gluOrtho2D(0.0,800.0,0.0,450.0);
 }
 
 void lineSegment(void){
@@ -14,11 +14,9 @@ void lineSegment(void){
 
     glBegin(GL_TRIANGLE_FAN);
         glColor3f(0.0,0.4,0.2);
-
-        glVertex2i(50,50);
-        glVertex2i(100,100);
-        glVertex2i(50,100);
-        glVertex2i(20,110);
+        glVertex2i(200, 100);
+        glVertex2i(400, 100);
+        glVertex2i(300, 400);
     glEnd();
 
     glFlush();
