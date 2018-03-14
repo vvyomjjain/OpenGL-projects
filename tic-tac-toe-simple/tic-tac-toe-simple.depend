@@ -1,16 +1,10 @@
 # depslib dependency file v1.0
-1519788842 source:d:\6th em\cgv-tut\mouse-click\main.cpp
-	<GL/gl.h>
-	<GL/glu.h>
+1520616968 source:g:\my documents\sem 6\cgv\opengl projects\tic-tac-toe-simple\main.cpp
+	<gl/gl.h>
 	<GL/glut.h>
 	<stdlib.h>
-	<stdio.h>
 
 1301111164 c:\program files (x86)\codeblocks\mingw\include\gl\gl.h
-
-1301111164 c:\program files (x86)\codeblocks\mingw\include\gl\glu.h
-	<stddef.h>
-	<GL/gl.h>
 
 976692172 c:\program files (x86)\codeblocks\mingw\include\gl\glut.h
 	<windows.h>
@@ -221,20 +215,7 @@
 1301111156 c:\program files (x86)\codeblocks\mingw\include\oleidl.h
 	<objfwd.h>
 
-1341010376 c:\program files (x86)\codeblocks\mingw\include\stdio.h
-	<_mingw.h>
+1301111164 c:\program files (x86)\codeblocks\mingw\include\gl\glu.h
 	<stddef.h>
-	<stdarg.h>
-	<sys/types.h>
-
-1341010380 c:\program files (x86)\codeblocks\mingw\include\sys\types.h
-	<_mingw.h>
-	<stddef.h>
-
-1520753850 source:g:\my documents\sem 6\cgv\opengl projects\mouse-click\main.cpp
 	<GL/gl.h>
-	<GL/glu.h>
-	<GL/glut.h>
-	<stdlib.h>
-	<stdio.h>
 

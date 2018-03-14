@@ -1,8 +1,7 @@
 # depslib dependency file v1.0
-1520784756 source:g:\my documents\sem 6\cgv\opengl projects\click-rect\main.cpp
+1520785496 source:g:\my documents\sem 6\cgv\opengl projects\click-rect\main.cpp
 	<gl/gl.h>
 	<GL/glut.h>
-	<cstdlib>
 
 1301111164 c:\program files (x86)\codeblocks\mingw\include\gl\gl.h
 
